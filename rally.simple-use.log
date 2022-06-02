@@ -1,0 +1,3 @@
+2022-02-16 00:07:06.322 Following entries record Rally REST API interaction via https://rally1.rallydev.com/slm/webservice/v2.0 for user: nickson.makori@jumia.com
+2022-02-16 00:07:06.323 GET HierarchicalRequirement?fetch=Name,FormattedID,ScheduleState,CreationDate&workspace=workspace/627099287953&project=project/627099288169&projectScopeUp=false&projectScopeDown=false&pagesize=500&start=1
+2022-02-16 00:07:06.710 200 HierarchicalRequirement?fetch=Name,FormattedID,ScheduleState,CreationDate&workspace=workspace/627099287953&project=project TotalResultCount 8
